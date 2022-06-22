@@ -1,2 +1,0 @@
-# DroNet
-DroNet - PyTorch - TensorRT
